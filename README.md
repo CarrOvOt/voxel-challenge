@@ -1,5 +1,27 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
+
+
+岩神瞳 - 原神
+
+Geoculus- Genshin Impact
+
+
+
+![Geoculus](./Geoculus.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 <img src="demo.jpg" width="75%"></img>
 </p>
